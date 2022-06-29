@@ -1,0 +1,1 @@
+This file is a test file for redacting phones number. So, phones like 101 555-1234 should be redacted; so does (101) 555-1234, (101)5551234, and 101-555-1234. If it does not then something went wrong. Let's also try a bunch of other phones, such as, 405 123 4567, 4051234567, 405123-4567; all of those phones should be redacted also.

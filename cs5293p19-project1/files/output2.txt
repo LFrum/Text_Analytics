@@ -1,0 +1,41 @@
+In ../docs/text-for-all.txt:
+There is/are 5 name(s) was redacted.
+There is/are 1 date(s) was redacted.
+There is/are 1 address(es) was redacted.
+There is/are 1 phone(s) was redacted.
+There is/are 7 concept(s) was redacted.
+
+In ../docs/text-for-dates.txt:
+There is/are 0 name(s) was redacted.
+There is/are 7 date(s) was redacted.
+There is/are 0 address(es) was redacted.
+There is/are 0 phone(s) was redacted.
+There is/are 2 concept(s) was redacted.
+
+In ../docs/text-for-names.txt:
+There is/are 10 name(s) was redacted.
+There is/are 0 date(s) was redacted.
+There is/are 0 address(es) was redacted.
+There is/are 0 phone(s) was redacted.
+There is/are 2 concept(s) was redacted.
+
+In ../docs/otherfiles/text-for-addresses.txt:
+There is/are 2 name(s) was redacted.
+There is/are 0 date(s) was redacted.
+There is/are 8 address(es) was redacted.
+There is/are 0 phone(s) was redacted.
+There is/are 2 concept(s) was redacted.
+
+In ../docs/otherfiles/text-for-concepts.txt:
+There is/are 0 name(s) was redacted.
+There is/are 0 date(s) was redacted.
+There is/are 0 address(es) was redacted.
+There is/are 0 phone(s) was redacted.
+There is/are 3 concept(s) was redacted.
+
+In ../docs/otherfiles/text-for-phones.txt:
+There is/are 0 name(s) was redacted.
+There is/are 0 date(s) was redacted.
+There is/are 0 address(es) was redacted.
+There is/are 7 phone(s) was redacted.
+There is/are 2 concept(s) was redacted.

@@ -1,0 +1,1 @@
+This file is a test file for redacting dates. So, dates like the new year's day 1 Feb 2019 should be redacted; so does January 1st, 2019. If it does not then something went wrong. Let's also try a bunch of other dates, such as, 1/1/2019, 01/01/2019, 18/03/2018, 03/30/2020, 3/30/20; all of those dates should be redacted also.

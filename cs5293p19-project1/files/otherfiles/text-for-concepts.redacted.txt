@@ -1,0 +1,1 @@
+This file is a test file for redacting concepts.██████████████████████████ . That previous sentence should be redacted.██████████████████████████████████████████████████████████████████████████ . We will skip this sentence.███████████████████████████████████████████ . End of File.

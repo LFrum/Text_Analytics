@@ -1,0 +1,1 @@
+This file is a test file for redacting names. John should be redacted; so does Jane. If it does not then something went wrong. Let's also try a bunch of other names, such as, Richard, Stefani, Emma Watson, Danny DeVito, Jon, Larry, Nick, Paul; all of those names should redacted also.

@@ -1,0 +1,1 @@
+This file is a test file for redacting concepts. The concept here is kids. That previous sentence should be redacted. This sentence should also be redacted since youngster is in the sentence. We will skip this sentence. Now, this sentence contain the word child. End of File.
