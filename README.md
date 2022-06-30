@@ -1,5 +1,5 @@
 # Text_Analytics
- Some coding in python for text analytics assignemnt and projects
+ Some coding in python for text analytics assignment and projects
 
 Author: Lince Rumainum
 
@@ -26,7 +26,7 @@ Continue from project 1 redactor; create unredactor as well.
 
 # How-To
 
-How to run the python code: The framework use for testing the python file: py.test.
+How to run the python code: The framework use for testing the python file: py.test
 
 Install pytest using the command line: pipenv install pytest
 
